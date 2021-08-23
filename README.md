@@ -1,1 +1,1 @@
-# -system-integrity-verifier-for-a-Linux-system
+# system-integrity-verifier-for-a-Linux-system
